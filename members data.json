@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "reg": 3500,
+        "name": "Sindh GTC",
+        "arrears": "800",
+        "status": "Regular"
+    },
+    {
+        "id": 2,
+        "reg": 2770,
+        "name": "Bandhani GTC",
+        "arrears": "800",
+        "status": "Regular"
+    },
+    {
+        "id": 3,
+        "reg": 3400,
+        "name": "New Hilal GTC",
+        "arrears": "800",
+        "status": "Regular"
+    },
+    {
+        "id": 4,
+        "reg": 1234,
+        "name": "Akbar GTC",
+        "arrears": "800",
+        "status": "Regular"
+    }
+]
